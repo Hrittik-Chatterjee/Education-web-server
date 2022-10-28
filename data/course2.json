@@ -1,7 +1,11 @@
 {
-    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "category_id": "02",
-    "name": "Python",
-    "thumbnail_url": "https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg",
-    "title": "Python noob to pro in just 3 months "
-  }
+  "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+  "category_id": "02",
+  "name": "Python",
+  "thumbnail_url": "https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg",
+  "title": "Python noob to pro in just 3 months ",
+  "details": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more?If you are looking to learn Python for the very first time or need a quick brush-up, this is the course for you!Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.",
+  "article": "4",
+  "hours": "29",
+  "download": "2"
+}

@@ -3,5 +3,9 @@
     "category_id": "03",
     "name": "C programming",
     "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
-    "title": "One of the best course on C programming"
+    "title": "One of the best course on C programming",
+    "details":"Have you never programmed a computer before, and think or have been told that C is a good programming language to get started with.  It is!Maybe you have some experience with other programming languages, but want to learn C.  It's a great language to add to your resume!Or perhaps you are stuck in a low paying programming job, and want to move up to a better, more senior position.",
+    "article": "6",
+    "hours": "21",
+    "download": "4"
   }
